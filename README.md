@@ -14,6 +14,10 @@ Uses Electron version 6.0.11
 4. Enter npm i
 5. Enter npm start
 
+## NOTE:
+After running npm i, you may need to explicitly install electron because NPM sucks. Enter
+npm i --save-dev electron
+
 
 ## To Build
 In your working directory, assuming you have run npm i:
