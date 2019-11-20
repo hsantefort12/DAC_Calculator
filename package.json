@@ -7,6 +7,10 @@
     "start": "electron .",
     "build": "electron-packager ."
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hsantefort12/DAC_Calculator"
+  },
   "author": "Haden Santefort",
   "license": "ISC",
   "devDependencies": {
