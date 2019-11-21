@@ -10,7 +10,6 @@ function createWindow() {
     });
 
     win.loadFile('DAC_Calc.html');
-
     win.on('closed', () => {
         win = null;
     });
