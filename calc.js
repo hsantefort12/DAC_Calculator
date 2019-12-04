@@ -1,3 +1,13 @@
+ /**
+  * Functions used to determine the bits that need to be
+  * active high to achieve the desired cutoff frequency.
+  * 
+  * Written by Haden Santefort for ECE 4900
+  * 
+  * Haden Santefort, Matt Daehn, Tamir Yankevich, 
+  * Clayton Wise, Locke Wang
+  */
+ 
  // Constant values
  const Rf_Value = 7.96e3;  // Can alter to adjust max cutoff frequency
  const N = 12;             // 12 bit DAC
