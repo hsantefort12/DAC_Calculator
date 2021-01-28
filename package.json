@@ -14,7 +14,7 @@
   "author": "Haden Santefort",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.2.4",
+    "electron": "^9.4.0",
     "electron-packager": "^14.1.0"
   }
 }
